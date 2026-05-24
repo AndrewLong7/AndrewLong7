@@ -1,8 +1,4 @@
 # Andrew Long
-
-This man is cool, nothing left here.  
-(: just kidding)
-
 ---
 
 ## 🎓 Education
